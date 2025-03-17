@@ -18,7 +18,7 @@
   </a>
   <!-- 5. Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: brightness(0) invert(1);"/>
   </a>
   <!-- 6. Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
