@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Siraj</h1>
 <h3 align="center">
   <a href="https://sirajshaikh.com" target="_blank">SirajShaikh.com - Thoughts</a>
 </h3>
