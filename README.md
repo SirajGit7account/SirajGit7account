@@ -3,9 +3,9 @@
   <a href="https://siraj.xyz" target="_blank">Siraj.xyz - Thoughts</a>
 </h3>
 
-- SaaS #1 [BeyondMVP](BeyondMVP.io)
+- <a href="https://BeyondMVP.io" target="_blank">BeyondMVP - SaaS #1</a>
 
-- SaaS #2 [PasManzar](pasmanzar.com)
+- <a href="https://pasmanzar.com" target="_blank">PasManzar - SaaS #2</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
