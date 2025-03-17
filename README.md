@@ -18,8 +18,14 @@
   </a>
   <!-- 5. Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: brightness(0) invert(1);"/>
-  </a>
+  <svg width="40" height="40" viewBox="0 0 283 64" xmlns="http://www.w3.org/2000/svg">
+    <title>Next.js</title>
+    <g fill="white" fill-rule="evenodd">
+      <path d="M141.9 7.9l-14.5 24.9 14.5 24.9 14.5-24.9-14.5-24.9z"/>
+      <path d="M176.6 7.9l-14.5 24.9 14.5 24.9 14.5-24.9-14.5-24.9z"/>
+    </g>
+  </svg>
+</a>
   <!-- 6. Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
