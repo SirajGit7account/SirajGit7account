@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siraj</h1>
 <h3 align="center">
-  <a href="https://siraj.xyz" target="_blank">Siraj.xyz - Thoughts</a>
+  <a href="https://sirajshaikh.com" target="_blank">SirajShaikh.com - Thoughts</a>
 </h3>
 
 - <a href="https://BeyondMVP.io" target="_blank">BeyondMVP - SaaS #1</a>
