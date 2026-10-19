@@ -4,8 +4,7 @@
 </body>
 </html>
 </p>
-Building Design-Centric Products✌🏼                               
-    | Building with Typescript, Mastra.ai for building agents
+Building Design-Centric Products✌🏼         
 </p>
 </body>
 </html>
